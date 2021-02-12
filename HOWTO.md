@@ -10,7 +10,7 @@
 ### 1. Fork Repository
   - While in the GitHub repository https://github.com/DigitalHammer/cybersecurity-profile-template, select "Fork" on the top right of the screen
 
-    ![fork examples](images/howto-fork.png)
+    ![fork examples](images/howto-fork.PNG)
 
   - Select the GitHub account you want it forked to
 
@@ -18,7 +18,7 @@
   - Navigate to the "cybersecurity-profile-template" repo in your GitHub account
   - Click on settings displayed on the tabs below the repo name
 
-    ![change repo](images/howto-change-repo-name.png)
+    ![change repo](images/howto-change-repo-name.PNG)
 
   - Change the repository name to your GitHub account name followed by "github.io"
     * Change what is in the brackets but do not include the brackets: [YourGitHubName].github.io
