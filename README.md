@@ -4,7 +4,7 @@
  #### If you would like to see an example visit: https://digitalhammer.github.io
 ---
 
-#### Read the [HOWTO](HOWTO.md) for step-by-step instructions to fork this repo and setup your own GitHub Page within a few minutes. 
+#### Read the [HOWTO](HOWTO.md) for step-by-step instructions to fork this repository and setup your own GitHub Page within a few minutes. 
 ---
 ### Benefits of using a GitHub Page and this template
 - It's dependable - 
