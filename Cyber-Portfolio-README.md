@@ -9,7 +9,7 @@
 - Minimizes setup - 
 - Crossover Skills - YAML/HTML
 ---
-## Read the [HOWTO](cybersecurity-profile-template/HOWTO.md) file for step-by-step instructions to display yourself and input your write-ups and projects
+### Read the [HOWTO](HOWTO.md) file for step-by-step instructions to display yourself and input your write-ups and projects
 ---
 ## Credit to: Minimal Mistakes Jekyll theme
 ### I am not a programmer and did not design the architecture of this GitHub Page. I modified the existing template made by Minimal Mistakes so it was setup for a cybersecurity portfolio. Please check him out as well as several other themes you can fork that can be easily customized. 
