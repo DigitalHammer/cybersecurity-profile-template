@@ -7,12 +7,19 @@
   - **Section Four** (optional) provides examples on how to customize the theme for your own aesthetic preferences.
 ---
 ## Section One: get your site live
-1. Fork Repository
+### 1. Fork Repository
   - While in the GitHub repository https://github.com/DigitalHammer/cybersecurity-profile-template, select "Fork" on the top right of the screen
+
+    ![fork examples](images/howto-fork.png)
+
   - Select the GitHub account you want it forked to
-2. Change Repo Name
+
+### 2. Change Repo Name
   - Navigate to the "cybersecurity-profile-template" repo in your GitHub account
   - Click on settings displayed on the tabs below the repo name
+
+    ![change repo](images/howto-change-repo-name.png)
+
   - Change the repository name to your GitHub account name followed by "github.io"
     * Change what is in the brackets but do not include the brackets: [YourGitHubName].github.io
     * Example: DigitalHammer.github.io
@@ -21,12 +28,12 @@
 
 ---
 ## Section Two: personalize it
-1. 
+### 1. 
 
 ---
 ## Section Three: format for posts and projects
-1. 
+### 1. 
 
 --- 
 ## Section Four: design options
-1. 
+### 1. 
