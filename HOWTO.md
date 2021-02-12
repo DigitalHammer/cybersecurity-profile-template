@@ -6,7 +6,7 @@
   - **Section Three** covers the format for creating posts (called "write-ups" in this template) and how projects can be displayed.
   - **Section Four** (optional) provides examples on how to customize the theme for your own aesthetic preferences.
 ---
-## Section One: get your site live
+## Section One: Page Setup
 ### 1. Fork Repository
   - While in the GitHub repository https://github.com/DigitalHammer/cybersecurity-profile-template, select "Fork" on the top right of the screen
 
@@ -27,13 +27,13 @@
 #### Once you change the repo name the site will update automatically. Give it about 10 minutes (potentially longer) and you'll be able to navigate to your own github.io page just like any other site. 
 
 ---
-## Section Two: personalize it
+## Section Two: Personalize It
 ### 1. 
 
 ---
-## Section Three: format for posts and projects
+## Section Three: Formatting for Posts and Projects
 ### 1. 
 
 --- 
-## Section Four: design options
+## Section Four: Design Options
 ### 1. 
