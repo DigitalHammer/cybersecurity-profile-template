@@ -24,7 +24,7 @@
     * Change what is in the brackets but do not include the brackets: [YourGitHubName].github.io
     * Example: DigitalHammer.github.io
 
-#### Once you change the repo name the site will update automatically. Give it about 10 minutes (potentially longer) and you'll be able to navigate to your own github.io site just like any other site. 
+#### Once you change the repo name the site will update automatically. Give it about 10 minutes (potentially longer) and you'll be able to navigate to your own github.io page just like any other site. 
 
 ---
 ## Section Two: personalize it
