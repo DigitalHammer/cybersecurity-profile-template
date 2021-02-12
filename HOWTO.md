@@ -1,6 +1,6 @@
 # Cybersecurity Profile Step-by-Step Guide
 
-### *This guide assumes you already have a GitHub account made.* 
+### *This guide assumes you already have a GitHub account made and know Git basics.* 
   - **Section One** demonstrates how to fork this repository and update the repo name to immediately get your GitHub Page live. 
   - **Section Two** points out specific configurations that need to be updated to personalize your page.
   - **Section Three** covers the format for creating posts (called "write-ups" in this template) and how projects can be displayed.
@@ -12,19 +12,21 @@
 
     ![fork examples](images/howto-fork.PNG)
 
-  - Select the GitHub account you want it forked to
+  - Select the GitHub account you want it forked to if you have multiple
 
 ### 2. Change Repo Name
-  - Navigate to the "cybersecurity-profile-template" repo in your GitHub account
-  - Click on settings displayed on the tabs below the repo name
+  - Navigate to the newly forked "cybersecurity-profile-template" repository in your GitHub account
+  - Click on **Settings** displayed on the tabs below the repo name
 
     ![change repo](images/howto-change-repo-name.PNG)
 
   - Change the repository name to your GitHub account name followed by "github.io"
     * Change what is in the brackets but do not include the brackets: [YourGitHubName].github.io
-    * Example: DigitalHammer.github.io
+    * Example: [DigitalHammer.github.io](https://DigitalHammer.github.io)
+  - Click the *Rename* button
+  - This is case-sensitive. Type your user exactly as it is portrayed.
 
-#### Once you change the repo name the site will update automatically. Give it about 10 minutes (potentially longer) and you'll be able to navigate to your own github.io page just like any other site. 
+#### Once the repository name is changed your GitHub Page will be created automatically. Give it about 10 minutes (maybe more, maybe less) and you'll be able to type in your URL and visit your page in a browser just like any other site. Once you see it is live move to **Section Two**.
 
 ---
 ## Section Two: Personalize It
