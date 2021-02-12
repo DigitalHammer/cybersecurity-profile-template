@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio Template
 ### This is a GitHub Page template that has been organized to create a standard cybersecurity portfolio. Similar to our programming cousins, we need to be able to display our work and skills as cybersecurity professionals. This template has been setup so you can smoothly fork the repository, modify a few settings to display yourself, and input your security write-ups and projects. 
 ---
-### If you would like to see an example, please visit my own GitHub Page here: digitalhammer.github.io
+### If you would like to see an example visit: digitalhammer.github.io
 ---
 ## Benefits of using a GitHub Page and this template
 - It's dependable - 
