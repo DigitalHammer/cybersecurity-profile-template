@@ -1,6 +1,6 @@
 # Cybersecurity Profile Step-by-Step Guide
 
-### *This guide assumes you already have a GitHub account and know Git basics. Do not worry about making mistakes though. GitHub Pages can easily be altered, taken down, or redone. * 
+#### *This guide assumes you already have a GitHub account and know Git basics. Do not worry about making mistakes though. GitHub Pages can easily be altered, taken down, or redone. * 
   - **Section One** demonstrates how to fork this repository and update the repo name to immediately get your GitHub Page live. 
   - **Section Two** points out specific configurations that need to be updated to personalize your page.
   - **Section Three** covers the format for creating posts (called "write-ups" in this template) and how projects can be displayed.
